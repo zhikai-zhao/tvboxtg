@@ -1,6 +1,6 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
+    "wallpaper": "https://zhao.royic.top/proxy?do=wall",
     "logo": "../luoxiaohei.gif",
     "sites": [
         {
